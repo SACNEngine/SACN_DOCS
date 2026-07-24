@@ -1,6 +1,6 @@
 # Stride Animation System
 
-为 [Stride Engine](https://github.com/stride3d/stride) 构建的完整动画系统，达到 Unity Mecanim 水准。
+为 [Stride Engine](https://github.com/stride3d/stride) 构建的完整动画系统，达到 大多引擎 水准。
 
 > **引擎版本**: Stride 4.4.0+ &nbsp;|&nbsp; **许可**: MIT
 
