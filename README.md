@@ -1,6 +1,6 @@
 # Stride Animation System
 
-为 [Stride Engine](https://github.com/stride3d/stride) 构建的完整动画系统，达到 Unity Mecanim 水准。
+为 [Stride Engine](https://github.com/stride3d/stride) 构建的完整动画系统，达到 大多引擎 水准。
 
 > **引擎版本**: Stride 4.4.0+ &nbsp;|&nbsp; **许可**: MIT
 
@@ -20,7 +20,7 @@
 
 本项目为 Stride Engine 补齐了 4 个核心动画子系统：
 
-| 子系统 | 目录 | 对标 Unity | 文档数 |
+| 子系统 | 目录 | 对标大多引擎 | 文档数 |
 |--------|------|-----------|:------:|
 | **动画窗口** | [动画窗口/](动画窗口/) | Animation Window | 14 篇 |
 | **状态机编辑器** | [动画系统/](动画系统/) | Animator Controller | 10 篇 |
